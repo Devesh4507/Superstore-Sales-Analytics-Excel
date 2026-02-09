@@ -36,7 +36,7 @@ management, and regional strategy.
 ## 📊 Key Insights ##
 - Total sales reached approximately **$2.29M**
 - **West** region generated the highest sales (~$725K)
-- **South** region underperformed in both sales and profit
+- **South** region underperformed in both sales and profit (~$329k)
 - **Technology** category led revenue
 - **Furniture** category showed the lowest profitability due to heavy discounting
 - Average profit margin across products is ~**12%**
