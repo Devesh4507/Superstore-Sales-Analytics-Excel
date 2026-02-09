@@ -6,6 +6,7 @@ performance, profitability, and regional trends using **Excel**.
 
 The goal is to generate **actionable business insights** for pricing, category
 management, and regional strategy.
+[Superstore Sales Analysis.csv](https://github.com/user-attachments/files/25179184/Superstore.Sales.Analysis.csv)
 
 ---
 
